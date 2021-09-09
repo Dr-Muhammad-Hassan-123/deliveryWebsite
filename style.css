@@ -7,7 +7,7 @@ body{
   border: 1px solid white;
   height: 220px;
   width: 100%;
-  background-image: url(" all/web./beach-1110498_1920.jpg  ");
+  background-image: url("https://cdn.pixabay.com/photo/2018/02/12/18/05/snow-3148827_640.jpg ");
   background-size: cover;
 }
 
@@ -195,7 +195,7 @@ a:hover,a:active{
 #card1{
 height: 250px;
   width: 250px;
-  margin-left:   px;
+  margin-left:  0px;
   border: 0px solid red;
   
   
@@ -205,9 +205,9 @@ footer{
   box-sizing: border-box;
   height: 660px;
   width: 350px;
-  margin-left: -50px;
+  margin-left: 0px;
   background-image: linear-gradient(to bottom left ,red,rgba(20,50,70,0.1),rgba(230,123,233,0.2),grey);
-  column-count: 0;
+ 
   
 }
 .link{
@@ -235,7 +235,7 @@ footer{
 .gototop{
   width: 330px;  
   height: 50px; 
-  margin-left: -45px; 
+  margin-left: 0px; 
   background-color:pink; 
   font-size: 25px;  
   color:  red;   
